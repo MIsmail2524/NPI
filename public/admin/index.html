@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Owner Dashboard · NPI Global Trading</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/demo.css?v=4">
+<link rel="stylesheet" href="/admin/admin.css?v=202610071554">
+</head>
+<body>
+<div class="shell">
+  <aside class="side" id="side">
+    <a class="side-brand" href="#/dashboard">
+      <span class="side-logo"><img src="/img/npi-logo.webp" alt="N.P.I Global"></span>
+      <span>Owner<br><small>Dashboard</small></span>
+    </a>
+    <nav class="side-nav" id="sideNav" aria-label="Dashboard sections">
+      <a href="#/dashboard" data-nav="dashboard"><i>📊</i>Overview</a>
+      <a href="#/products" data-nav="products"><i>🧰</i>Products<b class="pill" id="navPrices" hidden></b></a>
+      <a href="#/stock" data-nav="stock"><i>📦</i>Stock<b class="pill warn" id="navLow" hidden></b></a>
+      <a href="#/deals" data-nav="deals"><i>🏷</i>Deals &amp; Sales</a>
+      <a href="#/orders" data-nav="orders"><i>🧾</i>Orders<b class="pill hot" id="navOrders" hidden></b></a>
+      <a href="#/categories" data-nav="categories"><i>🗂</i>Categories</a>
+      <a href="#/customers" data-nav="customers"><i>👥</i>Customers</a>
+      <a href="#/reviews" data-nav="reviews"><i>⭐</i>Reviews</a>
+      <a href="#/messages" data-nav="messages"><i>✉</i>Messages<b class="pill hot" id="navMsgs" hidden></b></a>
+      <a href="#/settings" data-nav="settings"><i>⚙</i>Store settings</a>
+      <a href="#/activity" data-nav="activity"><i>🕘</i>Activity log</a>
+      <a href="#/backup" data-nav="backup"><i>💾</i>Backup &amp; import</a>
+    </nav>
+    <div class="side-foot">
+      <a class="side-store" href="/" target="_blank" rel="noopener">↗ View my store</a>
+      <button type="button" id="logoutBtn" class="side-logout">Log out</button>
+    </div>
+  </aside>
+  <div class="main">
+    <header class="top">
+      <button type="button" class="menu-btn" id="menuBtn" aria-label="Open menu">☰</button>
+      <h1 id="pageTitle">Overview</h1>
+      <div class="top-actions">
+        <a class="btn btn-primary" href="#/products/new" id="topAdd">＋ Add product</a>
+        <span class="who" id="who"></span>
+      </div>
+    </header>
+    <main id="view" tabindex="-1"></main>
+  </div>
+</div>
+<div class="side-backdrop" id="sideBackdrop"></div>
+<script src="/js/common.js?v=202610071554"></script>
+<script src="/js/demo.js?v=5"></script>
+<script src="/admin/admin.js?v=202610071554"></script>
+</body>
+</html>

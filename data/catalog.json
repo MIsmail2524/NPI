@@ -1,0 +1,4238 @@
+{
+ "categories": [
+  {
+   "slug": "screwdrivers",
+   "name": "Screwdrivers & Bits",
+   "motion": "twist"
+  },
+  {
+   "slug": "pliers",
+   "name": "Pliers & Pincers",
+   "motion": "snip"
+  },
+  {
+   "slug": "cutters",
+   "name": "Cutters, Saws & Blades",
+   "motion": "snip"
+  },
+  {
+   "slug": "wrenches",
+   "name": "Wrenches, Sockets & Keys",
+   "motion": "turn"
+  },
+  {
+   "slug": "tapes",
+   "name": "Measuring Tapes",
+   "motion": "pull"
+  },
+  {
+   "slug": "levels",
+   "name": "Spirit Levels",
+   "motion": "tilt"
+  },
+  {
+   "slug": "hammers",
+   "name": "Hammers",
+   "motion": "swing"
+  },
+  {
+   "slug": "drilling",
+   "name": "Drill Bits",
+   "motion": "drill"
+  },
+  {
+   "slug": "riveting",
+   "name": "Rivet Tools",
+   "motion": "squeeze"
+  }
+ ],
+ "products": [
+  {
+   "sku": "NPI-P01",
+   "slug": "npi-2-way-insulated-screwdriver",
+   "name": "NPI 2-Way Insulated Screwdriver",
+   "category": "screwdrivers",
+   "price": 95000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Interchangeable 2-way blade"
+    },
+    {
+     "label": "Tips",
+     "value": "Slotted + Phillips"
+    },
+    {
+     "label": "Blade",
+     "value": "Fully insulated shaft"
+    },
+    {
+     "label": "Handle",
+     "value": "Two-tone soft grip"
+    }
+   ],
+   "description": "An electrician's screwdriver with a fully insulated, reversible blade: slotted on one end, Phillips on the other. Pull the blade out, flip it and you have the second tip in seconds. The bright red-and-yellow soft-grip handle is easy to spot in a tool bag and comfortable for long panel jobs.",
+   "uses": [
+    "Switchboard and DB panel work",
+    "Socket and switch fitting",
+    "Appliance repair",
+    "General household fixing"
+   ],
+   "demo": {
+    "type": "screwdriver",
+    "img": 0,
+    "flip": {
+     "handle": 1,
+     "rod": 2
+    },
+    "tip": [
+     0.5,
+     0.0
+    ],
+    "spots": [
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.0
+     ],
+     [
+      0.5,
+      0.15
+     ],
+     [
+      0.5,
+      0.72
+     ]
+    ]
+   },
+   "tags": [
+    "screws-slotted",
+    "screws-phillips",
+    "electrical"
+   ],
+   "images": [
+    "/uploads/npi-p01-1-342f3751.webp",
+    "/uploads/npi-p01-2-93708209.webp",
+    "/uploads/npi-p01-3-5023b801.webp"
+   ],
+   "sizes": [
+    [
+     159,
+     900
+    ],
+    [
+     261,
+     900
+    ],
+    [
+     79,
+     900
+    ]
+   ],
+   "motion": "twist",
+   "featured": true,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P02",
+   "slug": "npi-2-way-screwdriver-full-rod",
+   "name": "NPI 2-Way Screwdriver (Full Rod)",
+   "category": "screwdrivers",
+   "price": 65000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Interchangeable through-rod"
+    },
+    {
+     "label": "Tips",
+     "value": "Slotted + Phillips"
+    },
+    {
+     "label": "Rod",
+     "value": "Hardened steel, reversible"
+    },
+    {
+     "label": "Handle",
+     "value": "Yellow/black ergonomic grip"
+    }
+   ],
+   "description": "One handle, two drivers. The hardened steel rod slides fully through the handle and reverses from slotted to Phillips. The contoured yellow-and-black grip gives you real turning force without blisters.",
+   "uses": [
+    "Furniture assembly",
+    "Cabinet hinges and handles",
+    "Workshop and garage use",
+    "Everyday home repairs"
+   ],
+   "demo": {
+    "type": "screwdriver",
+    "img": 1,
+    "flip": {
+     "handle": 0,
+     "rod": 2
+    },
+    "tip": [
+     0.5,
+     0.0
+    ],
+    "spots": [
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.0
+     ],
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.5,
+      0.72
+     ]
+    ]
+   },
+   "tags": [
+    "screws-slotted",
+    "screws-phillips",
+    "woodwork"
+   ],
+   "images": [
+    "/uploads/npi-p02-1-ddfa39f8.webp",
+    "/uploads/npi-p02-2-e6e10fc8.webp",
+    "/uploads/npi-p02-3-89335a69.webp"
+   ],
+   "sizes": [
+    [
+     274,
+     900
+    ],
+    [
+     158,
+     900
+    ],
+    [
+     55,
+     900
+    ]
+   ],
+   "motion": "twist",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P03",
+   "slug": "npi-screwdriver-black-white-grip",
+   "name": "NPI Screwdriver (Black & White Grip)",
+   "category": "screwdrivers",
+   "price": 45000,
+   "specs": [
+    {
+     "label": "Tip",
+     "value": "Slotted"
+    },
+    {
+     "label": "Shaft",
+     "value": "Chrome steel"
+    },
+    {
+     "label": "Handle",
+     "value": "Black/white anti-slip grip"
+    }
+   ],
+   "description": "A dependable everyday screwdriver with a chrome steel shaft and a chunky black-and-white anti-slip handle that stays grippy even with oily hands.",
+   "uses": [
+    "General repairs",
+    "Electrical fittings",
+    "Workshop bench use"
+   ],
+   "demo": {
+    "type": "screwdriver",
+    "img": 0,
+    "tip": [
+     0.5,
+     0.0
+    ],
+    "spots": [
+     [
+      0.5,
+      0.0
+     ],
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.5,
+      0.72
+     ]
+    ]
+   },
+   "tags": [
+    "screws-slotted",
+    "electrical"
+   ],
+   "images": [
+    "/uploads/npi-p03-1-63ce2890.webp",
+    "/uploads/npi-p03-2-d3018c2d.webp"
+   ],
+   "sizes": [
+    [
+     159,
+     900
+    ],
+    [
+     465,
+     900
+    ]
+   ],
+   "motion": "twist",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P04",
+   "slug": "milestone-flat-screwdriver-orange-grip",
+   "name": "Milestone Flat Screwdriver (Orange Grip)",
+   "category": "screwdrivers",
+   "price": 38000,
+   "specs": [
+    {
+     "label": "Tip",
+     "value": "Wide slotted"
+    },
+    {
+     "label": "Shaft",
+     "value": "Hardened steel"
+    },
+    {
+     "label": "Handle",
+     "value": "Ribbed orange/black grip"
+    }
+   ],
+   "description": "A heavy-duty flat screwdriver with a wide, hardened tip and a ribbed two-tone handle for maximum torque on stubborn slotted screws.",
+   "uses": [
+    "Stubborn slotted screws",
+    "Machinery maintenance",
+    "Light prying and scraping"
+   ],
+   "demo": {
+    "type": "screwdriver",
+    "img": 0,
+    "tip": [
+     0.5,
+     0.0
+    ],
+    "spots": [
+     [
+      0.5,
+      0.0
+     ],
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.5,
+      0.72
+     ]
+    ]
+   },
+   "tags": [
+    "screws-slotted",
+    "automotive"
+   ],
+   "images": [
+    "/uploads/npi-p04-1-7ad1f251.webp"
+   ],
+   "sizes": [
+    [
+     123,
+     900
+    ]
+   ],
+   "motion": "twist",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P05",
+   "slug": "super-flat-screwdriver-yellow-grip",
+   "name": "Super Flat Screwdriver (Yellow Grip)",
+   "category": "screwdrivers",
+   "price": 35000,
+   "specs": [
+    {
+     "label": "Tip",
+     "value": "Slotted"
+    },
+    {
+     "label": "Shaft",
+     "value": "Hardened steel"
+    },
+    {
+     "label": "Handle",
+     "value": "Textured yellow/black grip"
+    }
+   ],
+   "description": "A compact slotted screwdriver with a textured anti-slip handle: the go-to driver for daily jobs around the house and shop.",
+   "uses": [
+    "Household repairs",
+    "Electrical covers and plates",
+    "Toolbox essential"
+   ],
+   "demo": {
+    "type": "screwdriver",
+    "img": 0,
+    "tip": [
+     0.5,
+     0.0
+    ],
+    "spots": [
+     [
+      0.5,
+      0.0
+     ],
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.5,
+      0.72
+     ]
+    ]
+   },
+   "tags": [
+    "screws-slotted"
+   ],
+   "images": [
+    "/uploads/npi-p05-1-0f8b594a.webp"
+   ],
+   "sizes": [
+    [
+     100,
+     900
+    ]
+   ],
+   "motion": "twist",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P06",
+   "slug": "milestone-phillips-screwdriver-yellow-grip",
+   "name": "Milestone Phillips Screwdriver (Yellow Grip)",
+   "category": "screwdrivers",
+   "price": 38000,
+   "specs": [
+    {
+     "label": "Tip",
+     "value": "Phillips"
+    },
+    {
+     "label": "Shaft",
+     "value": "Hardened steel"
+    },
+    {
+     "label": "Handle",
+     "value": "Cushioned yellow/black grip"
+    }
+   ],
+   "description": "A precise Phillips screwdriver with a cushioned grip. The tip seats deep in cross-head screws to reduce slipping and cam-out.",
+   "uses": [
+    "Cross-head screws",
+    "Furniture and fixtures",
+    "Appliance panels"
+   ],
+   "demo": {
+    "type": "screwdriver",
+    "img": 0,
+    "tip": [
+     0.5,
+     0.0
+    ],
+    "spots": [
+     [
+      0.5,
+      0.0
+     ],
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.5,
+      0.72
+     ]
+    ]
+   },
+   "tags": [
+    "screws-phillips"
+   ],
+   "images": [
+    "/uploads/npi-p06-1-d4e6690f.webp"
+   ],
+   "sizes": [
+    [
+     105,
+     900
+    ]
+   ],
+   "motion": "twist",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P07",
+   "slug": "npi-double-end-screwdriver-bits-10-pcs",
+   "name": "NPI Double-End Screwdriver Bits (10 pcs)",
+   "category": "screwdrivers",
+   "price": 75000,
+   "specs": [
+    {
+     "label": "Pieces",
+     "value": "10"
+    },
+    {
+     "label": "Steel",
+     "value": "S2 alloy"
+    },
+    {
+     "label": "Type",
+     "value": "Double-ended PH2"
+    },
+    {
+     "label": "Pack",
+     "value": "Hanging storage case"
+    }
+   ],
+   "description": "Ten double-ended S2-steel bits in a reusable hanging case. Each bit has two working ends, so you get twice the life before you swap.",
+   "uses": [
+    "Cordless drill/driver use",
+    "Drywall and gypsum fixing",
+    "Furniture assembly lines",
+    "Roofing and cladding"
+   ],
+   "demo": {
+    "type": "bits",
+    "img": 0,
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "power-driver",
+    "screws-phillips",
+    "woodwork"
+   ],
+   "images": [
+    "/uploads/npi-p07-1-3fea7b87.webp"
+   ],
+   "sizes": [
+    [
+     752,
+     900
+    ]
+   ],
+   "motion": "zoom",
+   "featured": true,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P08",
+   "slug": "npi-magnetic-ring-screw-bits-ph2-5-pcs",
+   "name": "NPI Magnetic Ring Screw Bits PH2 (5 pcs)",
+   "category": "screwdrivers",
+   "price": 85000,
+   "specs": [
+    {
+     "label": "Pieces",
+     "value": "5"
+    },
+    {
+     "label": "Tip",
+     "value": "PH2"
+    },
+    {
+     "label": "Feature",
+     "value": "Magnetic holding ring"
+    },
+    {
+     "label": "Steel",
+     "value": "S2 impact grade"
+    }
+   ],
+   "description": "Impact-grade PH2 bits with a gold magnetic ring that holds the screw firmly on the tip. Start screws one-handed, even overhead.",
+   "uses": [
+    "Impact drivers",
+    "Overhead and ceiling work",
+    "Gypsum board fixing",
+    "Steel-frame screws"
+   ],
+   "demo": {
+    "type": "bits",
+    "img": 0,
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.5,
+      0.05
+     ],
+     [
+      0.5,
+      0.8
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "power-driver",
+    "screws-phillips",
+    "magnetic"
+   ],
+   "images": [
+    "/uploads/npi-p08-1-db33597e.webp",
+    "/uploads/npi-p08-2-7b2fca7e.webp"
+   ],
+   "sizes": [
+    [
+     831,
+     900
+    ],
+    [
+     900,
+     545
+    ]
+   ],
+   "motion": "zoom",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P09",
+   "slug": "npi-double-end-ph2-bits-2-pcs",
+   "name": "NPI Double-End PH2 Bits (2 pcs)",
+   "category": "screwdrivers",
+   "price": 18000,
+   "specs": [
+    {
+     "label": "Pieces",
+     "value": "2"
+    },
+    {
+     "label": "Tip",
+     "value": "PH2 both ends"
+    },
+    {
+     "label": "Steel",
+     "value": "S2 alloy"
+    }
+   ],
+   "description": "A spare pair of double-ended PH2 bits. Keep them in your pocket so you never stop a job for a worn bit.",
+   "uses": [
+    "Cordless drills",
+    "Spare bits for the site"
+   ],
+   "demo": {
+    "type": "bits",
+    "img": 0,
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.5,
+      0.05
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "power-driver",
+    "screws-phillips"
+   ],
+   "images": [
+    "/uploads/npi-p09-1-291add54.webp"
+   ],
+   "sizes": [
+    [
+     436,
+     900
+    ]
+   ],
+   "motion": "twist",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P10",
+   "slug": "milestone-combination-pliers-orange-grip",
+   "name": "Milestone Combination Pliers (Orange Grip)",
+   "category": "pliers",
+   "price": 125000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Combination"
+    },
+    {
+     "label": "Jaws",
+     "value": "Gripping + side cutter"
+    },
+    {
+     "label": "Handle",
+     "value": "Dual-material orange/black"
+    }
+   ],
+   "description": "Grip, twist, bend and cut with one tool. Serrated jaws hold firmly, and the hardened side cutter snips wire cleanly. The dual-material handles reduce hand fatigue.",
+   "uses": [
+    "Electrical wiring",
+    "Bending and twisting wire",
+    "Gripping nuts and fittings",
+    "General maintenance"
+   ],
+   "demo": {
+    "type": "pliers",
+    "hinge": "cross",
+    "img": 1,
+    "pivot": [
+     0.52,
+     0.26
+    ],
+    "tip": [
+     0.52,
+     0.05
+    ],
+    "cut": [
+     0.52,
+     0.15
+    ],
+    "spots": [
+     [
+      0.52,
+      0.26
+     ],
+     [
+      0.52,
+      0.155
+     ],
+     [
+      0.3,
+      0.7
+     ]
+    ]
+   },
+   "tags": [
+    "grip",
+    "wire-cut",
+    "electrical"
+   ],
+   "images": [
+    "/uploads/npi-p10-1-eda60138.webp",
+    "/uploads/npi-p10-2-be989c39.webp"
+   ],
+   "sizes": [
+    [
+     584,
+     900
+    ],
+    [
+     291,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": true,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P11",
+   "slug": "milestone-combination-pliers-yellow-grip",
+   "name": "Milestone Combination Pliers (Yellow Grip)",
+   "category": "pliers",
+   "price": 125000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Combination"
+    },
+    {
+     "label": "Jaws",
+     "value": "Gripping + side cutter"
+    },
+    {
+     "label": "Handle",
+     "value": "Dual-material yellow/black"
+    }
+   ],
+   "description": "The same tough combination pliers in high-visibility yellow: easy to find in a crowded toolbox.",
+   "uses": [
+    "Electrical wiring",
+    "Wire cutting",
+    "Gripping and bending"
+   ],
+   "demo": {
+    "type": "pliers",
+    "hinge": "cross",
+    "img": 0,
+    "pivot": [
+     0.52,
+     0.27
+    ],
+    "tip": [
+     0.53,
+     0.05
+    ],
+    "cut": [
+     0.52,
+     0.16
+    ],
+    "spots": [
+     [
+      0.52,
+      0.27
+     ],
+     [
+      0.53,
+      0.16
+     ],
+     [
+      0.3,
+      0.7
+     ]
+    ]
+   },
+   "tags": [
+    "grip",
+    "wire-cut",
+    "electrical"
+   ],
+   "images": [
+    "/uploads/npi-p11-1-53ed1e45.webp",
+    "/uploads/npi-p11-2-eecbfe23.webp"
+   ],
+   "sizes": [
+    [
+     270,
+     900
+    ],
+    [
+     553,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P12",
+   "slug": "milestone-combination-pliers-red-white-grip",
+   "name": "Milestone Combination Pliers (Red/White Grip)",
+   "category": "pliers",
+   "price": 125000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Combination"
+    },
+    {
+     "label": "Jaws",
+     "value": "Gripping + side cutter"
+    },
+    {
+     "label": "Handle",
+     "value": "Red/white comfort grip"
+    }
+   ],
+   "description": "Classic combination pliers with a premium red-and-white comfort grip and precision-ground jaws.",
+   "uses": [
+    "Electrical wiring",
+    "Wire cutting",
+    "Home and workshop use"
+   ],
+   "demo": {
+    "type": "pliers",
+    "hinge": "cross",
+    "img": 0,
+    "pivot": [
+     0.5,
+     0.27
+    ],
+    "tip": [
+     0.52,
+     0.04
+    ],
+    "cut": [
+     0.52,
+     0.15
+    ],
+    "spots": [
+     [
+      0.5,
+      0.27
+     ],
+     [
+      0.52,
+      0.155
+     ],
+     [
+      0.3,
+      0.7
+     ]
+    ]
+   },
+   "tags": [
+    "grip",
+    "wire-cut",
+    "electrical"
+   ],
+   "images": [
+    "/uploads/npi-p12-1-f4ff46f7.webp",
+    "/uploads/npi-p12-2-aa39bf4b.webp"
+   ],
+   "sizes": [
+    [
+     280,
+     900
+    ],
+    [
+     665,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P13",
+   "slug": "long-nose-pliers-red-white-grip",
+   "name": "Long Nose Pliers (Red/White Grip)",
+   "category": "pliers",
+   "price": 110000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Long nose"
+    },
+    {
+     "label": "Jaws",
+     "value": "Serrated tip + cutter"
+    },
+    {
+     "label": "Handle",
+     "value": "Red/white comfort grip"
+    }
+   ],
+   "description": "Long, slim jaws reach into tight spaces to grip small parts, bend loops in wire and pull pins, with a built-in cutter near the pivot.",
+   "uses": [
+    "Electronics and fine wiring",
+    "Bending wire loops",
+    "Retrieving small parts",
+    "Jewellery and crafts"
+   ],
+   "demo": {
+    "type": "nose",
+    "hinge": "cross",
+    "img": 0,
+    "pivot": [
+     0.47,
+     0.37
+    ],
+    "tip": [
+     0.48,
+     0.03
+    ],
+    "spots": [
+     [
+      0.47,
+      0.37
+     ],
+     [
+      0.48,
+      0.2
+     ],
+     [
+      0.3,
+      0.7
+     ]
+    ]
+   },
+   "tags": [
+    "tight-space",
+    "grip",
+    "electrical"
+   ],
+   "images": [
+    "/uploads/npi-p13-1-3c639121.webp",
+    "/uploads/npi-p13-2-83105d68.webp"
+   ],
+   "sizes": [
+    [
+     314,
+     900
+    ],
+    [
+     454,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P14",
+   "slug": "milestone-long-nose-pliers-yellow-grip",
+   "name": "Milestone Long Nose Pliers (Yellow Grip)",
+   "category": "pliers",
+   "price": 110000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Long nose"
+    },
+    {
+     "label": "Jaws",
+     "value": "Serrated tip + cutter"
+    },
+    {
+     "label": "Handle",
+     "value": "Yellow/black dual-material"
+    }
+   ],
+   "description": "Precision long nose pliers with a high-visibility yellow grip, made for reaching where fingers can't.",
+   "uses": [
+    "Panel wiring",
+    "Tight-space gripping",
+    "Wire forming"
+   ],
+   "demo": {
+    "type": "nose",
+    "hinge": "cross",
+    "img": 1,
+    "pivot": [
+     0.5,
+     0.36
+    ],
+    "tip": [
+     0.52,
+     0.02
+    ],
+    "spots": [
+     [
+      0.5,
+      0.36
+     ],
+     [
+      0.52,
+      0.19
+     ],
+     [
+      0.3,
+      0.7
+     ]
+    ]
+   },
+   "tags": [
+    "tight-space",
+    "grip",
+    "electrical"
+   ],
+   "images": [
+    "/uploads/npi-p14-1-31b1d5f4.webp",
+    "/uploads/npi-p14-2-7c9eabaf.webp"
+   ],
+   "sizes": [
+    [
+     482,
+     900
+    ],
+    [
+     313,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P15",
+   "slug": "milestone-long-nose-pliers-orange-grip",
+   "name": "Milestone Long Nose Pliers (Orange Grip)",
+   "category": "pliers",
+   "price": 110000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Long nose"
+    },
+    {
+     "label": "Jaws",
+     "value": "Serrated tip + cutter"
+    },
+    {
+     "label": "Handle",
+     "value": "Orange/black dual-material"
+    }
+   ],
+   "description": "Slim-jaw pliers with an orange/black anti-slip grip for detailed gripping and wire work.",
+   "uses": [
+    "Electrical and electronics",
+    "Automotive clips",
+    "Fine assembly"
+   ],
+   "demo": {
+    "type": "nose",
+    "hinge": "cross",
+    "img": 0,
+    "pivot": [
+     0.5,
+     0.37
+    ],
+    "tip": [
+     0.5,
+     0.02
+    ],
+    "spots": [
+     [
+      0.5,
+      0.37
+     ],
+     [
+      0.5,
+      0.195
+     ],
+     [
+      0.3,
+      0.7
+     ]
+    ]
+   },
+   "tags": [
+    "tight-space",
+    "grip",
+    "automotive"
+   ],
+   "images": [
+    "/uploads/npi-p15-1-578ab1ce.webp",
+    "/uploads/npi-p15-2-4aedf5e2.webp"
+   ],
+   "sizes": [
+    [
+     328,
+     900
+    ],
+    [
+     450,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P16",
+   "slug": "milestone-diagonal-cutting-pliers",
+   "name": "Milestone Diagonal Cutting Pliers",
+   "category": "pliers",
+   "price": 115000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Diagonal side cutter"
+    },
+    {
+     "label": "Edges",
+     "value": "Induction-hardened"
+    },
+    {
+     "label": "Handle",
+     "value": "Orange/black dual-material"
+    }
+   ],
+   "description": "Hardened diagonal cutting edges snip copper and steel wire flush and clean. Long handles give strong leverage with little effort.",
+   "uses": [
+    "Cutting electrical wire",
+    "Trimming cable ties",
+    "Flush-cutting pins and leads"
+   ],
+   "demo": {
+    "type": "diagonal",
+    "hinge": "cross",
+    "img": 0,
+    "pivot": [
+     0.5,
+     0.25
+    ],
+    "tip": [
+     0.5,
+     0.08
+    ],
+    "spots": [
+     [
+      0.5,
+      0.25
+     ],
+     [
+      0.5,
+      0.165
+     ],
+     [
+      0.3,
+      0.7
+     ]
+    ]
+   },
+   "tags": [
+    "wire-cut",
+    "electrical"
+   ],
+   "images": [
+    "/uploads/npi-p16-1-3765445b.webp",
+    "/uploads/npi-p16-2-9aa625d5.webp"
+   ],
+   "sizes": [
+    [
+     343,
+     900
+    ],
+    [
+     591,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P17",
+   "slug": "npi-locking-grip-pliers-chrome",
+   "name": "NPI Locking Grip Pliers (Chrome)",
+   "category": "pliers",
+   "price": 135000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Locking / vice-grip"
+    },
+    {
+     "label": "Jaw",
+     "value": "Curved, serrated"
+    },
+    {
+     "label": "Adjustment",
+     "value": "Screw knob + quick release"
+    },
+    {
+     "label": "Finish",
+     "value": "Chrome plated"
+    }
+   ],
+   "description": "Clamp it and let go. These locking pliers lock onto bolts, pipes and workpieces with huge holding force, and release instantly with the lever.",
+   "uses": [
+    "Removing rounded bolts",
+    "Clamping for welding",
+    "Holding pipes",
+    "Emergency wrench"
+   ],
+   "demo": {
+    "type": "locking",
+    "hinge": "side",
+    "lever": "right",
+    "img": 1,
+    "pivot": [
+     0.47,
+     0.33
+    ],
+    "tip": [
+     0.35,
+     0.1
+    ],
+    "spots": [
+     [
+      0.47,
+      0.33
+     ],
+     [
+      0.35,
+      0.215
+     ],
+     [
+      0.47,
+      0.33
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "clamp",
+    "nuts",
+    "plumbing",
+    "automotive"
+   ],
+   "images": [
+    "/uploads/npi-p17-1-68a3d352.webp",
+    "/uploads/npi-p17-2-2964e124.webp"
+   ],
+   "sizes": [
+    [
+     260,
+     900
+    ],
+    [
+     765,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": true,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P18",
+   "slug": "npi-locking-grip-pliers-black",
+   "name": "NPI Locking Grip Pliers (Black)",
+   "category": "pliers",
+   "price": 125000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Locking / vice-grip"
+    },
+    {
+     "label": "Jaw",
+     "value": "Curved, serrated"
+    },
+    {
+     "label": "Adjustment",
+     "value": "Screw knob + quick release"
+    },
+    {
+     "label": "Finish",
+     "value": "Black oxide"
+    }
+   ],
+   "description": "Locking pliers in a tough black-oxide finish that resists rust in workshop conditions.",
+   "uses": [
+    "Rounded nuts and bolts",
+    "Clamping work",
+    "Pipe gripping"
+   ],
+   "demo": {
+    "type": "locking",
+    "hinge": "side",
+    "lever": "right",
+    "img": 0,
+    "pivot": [
+     0.43,
+     0.32
+    ],
+    "tip": [
+     0.33,
+     0.12
+    ],
+    "spots": [
+     [
+      0.43,
+      0.32
+     ],
+     [
+      0.33,
+      0.22
+     ],
+     [
+      0.43,
+      0.32
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "clamp",
+    "nuts",
+    "automotive"
+   ],
+   "images": [
+    "/uploads/npi-p18-1-942e7538.webp",
+    "/uploads/npi-p18-2-2580d954.webp"
+   ],
+   "sizes": [
+    [
+     654,
+     900
+    ],
+    [
+     262,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P19",
+   "slug": "locking-grip-pliers-cushion-grip",
+   "name": "Locking Grip Pliers (Cushion Grip)",
+   "category": "pliers",
+   "price": 155000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Locking / vice-grip"
+    },
+    {
+     "label": "Jaw",
+     "value": "Curved, serrated"
+    },
+    {
+     "label": "Handle",
+     "value": "Blue/yellow cushion grip"
+    },
+    {
+     "label": "Release",
+     "value": "Quick-release lever"
+    }
+   ],
+   "description": "Full locking power with soft cushioned handles, so you can squeeze hard all day without sore palms.",
+   "uses": [
+    "Mechanics and fabricators",
+    "Clamping and welding",
+    "Stuck fasteners"
+   ],
+   "demo": {
+    "type": "locking",
+    "hinge": "side",
+    "lever": "right",
+    "img": 0,
+    "pivot": [
+     0.45,
+     0.37
+    ],
+    "tip": [
+     0.33,
+     0.12
+    ],
+    "spots": [
+     [
+      0.45,
+      0.37
+     ],
+     [
+      0.33,
+      0.245
+     ],
+     [
+      0.5,
+      0.72
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "clamp",
+    "nuts",
+    "plumbing"
+   ],
+   "images": [
+    "/uploads/npi-p19-1-a0d50c4e.webp",
+    "/uploads/npi-p19-2-28b9c7e0.webp"
+   ],
+   "sizes": [
+    [
+     737,
+     900
+    ],
+    [
+     275,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P20",
+   "slug": "npi-circlip-pliers-internal",
+   "name": "NPI Circlip Pliers (Internal)",
+   "category": "pliers",
+   "price": 65000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Internal circlip / snap ring"
+    },
+    {
+     "label": "Tips",
+     "value": "Hardened"
+    },
+    {
+     "label": "Spring",
+     "value": "Return spring"
+    },
+    {
+     "label": "Handle",
+     "value": "Yellow PVC dipped"
+    }
+   ],
+   "description": "Removes and fits internal retaining rings (circlips) inside bores and housings. A return spring keeps the tips ready for the next ring.",
+   "uses": [
+    "Bearing housings",
+    "Motorcycle and auto repair",
+    "Pump and gearbox service"
+   ],
+   "demo": {
+    "type": "circlip-int",
+    "hinge": "cross",
+    "img": 0,
+    "pivot": [
+     0.5,
+     0.37
+    ],
+    "tip": [
+     0.5,
+     0.03
+    ],
+    "spots": [
+     [
+      0.5,
+      0.37
+     ],
+     [
+      0.5,
+      0.03
+     ],
+     [
+      0.5,
+      0.43
+     ],
+     [
+      0.3,
+      0.7
+     ]
+    ]
+   },
+   "tags": [
+    "circlip-int",
+    "automotive"
+   ],
+   "images": [
+    "/uploads/npi-p20-1-c20ba008.webp",
+    "/uploads/npi-p20-2-bccf2593.webp",
+    "/uploads/npi-p20-3-389a7333.webp"
+   ],
+   "sizes": [
+    [
+     623,
+     900
+    ],
+    [
+     647,
+     900
+    ],
+    [
+     619,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P21",
+   "slug": "npi-circlip-pliers-external",
+   "name": "NPI Circlip Pliers (External)",
+   "category": "pliers",
+   "price": 65000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "External circlip / snap ring"
+    },
+    {
+     "label": "Tips",
+     "value": "Straight, hardened"
+    },
+    {
+     "label": "Spring",
+     "value": "Return spring"
+    },
+    {
+     "label": "Handle",
+     "value": "Yellow PVC dipped"
+    }
+   ],
+   "description": "Opens external snap rings on shafts and axles. The straight hardened tips grip the ring holes securely.",
+   "uses": [
+    "Shafts and axles",
+    "Machinery maintenance",
+    "Auto repair"
+   ],
+   "demo": {
+    "type": "circlip-ext",
+    "hinge": "side",
+    "img": 0,
+    "pivot": [
+     0.47,
+     0.35
+    ],
+    "tip": [
+     0.47,
+     0.02
+    ],
+    "spots": [
+     [
+      0.47,
+      0.35
+     ],
+     [
+      0.47,
+      0.02
+     ],
+     [
+      0.47,
+      0.41
+     ],
+     [
+      0.3,
+      0.7
+     ]
+    ]
+   },
+   "tags": [
+    "circlip-ext",
+    "automotive"
+   ],
+   "images": [
+    "/uploads/npi-p21-1-798e8b27.webp"
+   ],
+   "sizes": [
+    [
+     458,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P22",
+   "slug": "npi-end-cutting-pincers-jamoor",
+   "name": "NPI End Cutting Pincers (Jamoor)",
+   "category": "pliers",
+   "price": 75000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "End cutting pincers"
+    },
+    {
+     "label": "Jaws",
+     "value": "Forged, hardened"
+    },
+    {
+     "label": "Handle",
+     "value": "Yellow PVC dipped"
+    }
+   ],
+   "description": "The carpenter's jamoor. Rounded forged jaws pull nails out of wood and cut wire and nail heads flush with the surface.",
+   "uses": [
+    "Pulling nails",
+    "Cutting nail heads flush",
+    "Shuttering and woodwork",
+    "Tying and cutting binding wire"
+   ],
+   "demo": {
+    "type": "pincers",
+    "hinge": "cross",
+    "img": 2,
+    "pivot": [
+     0.5,
+     0.2
+    ],
+    "tip": [
+     0.5,
+     0.03
+    ],
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.5,
+      0.115
+     ],
+     [
+      0.3,
+      0.7
+     ]
+    ]
+   },
+   "tags": [
+    "nail-pull",
+    "woodwork",
+    "wire-cut"
+   ],
+   "images": [
+    "/uploads/npi-p22-1-985344cc.webp",
+    "/uploads/npi-p22-2-73e4582a.webp",
+    "/uploads/npi-p22-3-c20b79bc.webp",
+    "/uploads/npi-p22-4-2101441b.webp"
+   ],
+   "sizes": [
+    [
+     460,
+     900
+    ],
+    [
+     541,
+     900
+    ],
+    [
+     234,
+     900
+    ],
+    [
+     201,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P23",
+   "slug": "npi-cable-cutter",
+   "name": "NPI Cable Cutter",
+   "category": "cutters",
+   "price": 180000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Cable shear"
+    },
+    {
+     "label": "Blades",
+     "value": "Hardened curved blades"
+    },
+    {
+     "label": "Handle",
+     "value": "Long red/black grips"
+    }
+   ],
+   "description": "Curved shear blades wrap around copper and aluminium cable and cut it cleanly without crushing, and the long handles do the hard work.",
+   "uses": [
+    "Copper and aluminium cable",
+    "Electrical installation",
+    "Battery cables"
+   ],
+   "demo": {
+    "type": "cable",
+    "hinge": "cross",
+    "img": 0,
+    "pivot": [
+     0.5,
+     0.27
+    ],
+    "tip": [
+     0.5,
+     0.1
+    ],
+    "spots": [
+     [
+      0.5,
+      0.27
+     ],
+     [
+      0.5,
+      0.185
+     ],
+     [
+      0.3,
+      0.7
+     ]
+    ]
+   },
+   "tags": [
+    "cable-cut",
+    "electrical"
+   ],
+   "images": [
+    "/uploads/npi-p23-1-e97d1c6e.webp",
+    "/uploads/npi-p23-2-814c6f4a.webp"
+   ],
+   "sizes": [
+    [
+     230,
+     900
+    ],
+    [
+     725,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": true,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P24",
+   "slug": "npi-ppr-pipe-cutter-blue",
+   "name": "NPI PPR Pipe Cutter (Blue)",
+   "category": "cutters",
+   "price": 145000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Ratchet pipe cutter"
+    },
+    {
+     "label": "For",
+     "value": "PPR, PVC, PE pipe"
+    },
+    {
+     "label": "Blade",
+     "value": "Stainless steel"
+    },
+    {
+     "label": "Body",
+     "value": "Aluminium alloy"
+    }
+   ],
+   "description": "A ratchet-action pipe cutter that slices PPR, PVC and PE pipe square and burr-free in a few squeezes, ready for fusion or fittings.",
+   "uses": [
+    "PPR plumbing",
+    "PVC conduit",
+    "Irrigation pipe"
+   ],
+   "demo": {
+    "type": "ppr",
+    "hinge": "side",
+    "lever": "right",
+    "img": 0,
+    "pivot": [
+     0.38,
+     0.22
+    ],
+    "tip": [
+     0.55,
+     0.17
+    ],
+    "spots": [
+     [
+      0.38,
+      0.22
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.55,
+      0.195
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "pipe-plastic",
+    "plumbing"
+   ],
+   "images": [
+    "/uploads/npi-p24-1-1f60e1a4.webp",
+    "/uploads/npi-p24-2-e61497c4.webp"
+   ],
+   "sizes": [
+    [
+     596,
+     900
+    ],
+    [
+     561,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P25",
+   "slug": "ppr-pipe-cutter-red",
+   "name": "PPR Pipe Cutter (Red)",
+   "category": "cutters",
+   "price": 145000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Ratchet pipe cutter"
+    },
+    {
+     "label": "For",
+     "value": "PPR, PVC, PE pipe"
+    },
+    {
+     "label": "Blade",
+     "value": "Stainless steel"
+    },
+    {
+     "label": "Body",
+     "value": "Aluminium alloy"
+    }
+   ],
+   "description": "Fast, square cuts on plastic pipe every time. The red ratchet cutter is built for plumbers who cut all day.",
+   "uses": [
+    "PPR plumbing",
+    "Conduit and ducting",
+    "Garden pipe"
+   ],
+   "demo": {
+    "type": "ppr",
+    "hinge": "side",
+    "lever": "right",
+    "img": 0,
+    "pivot": [
+     0.68,
+     0.25
+    ],
+    "tip": [
+     0.5,
+     0.15
+    ],
+    "spots": [
+     [
+      0.68,
+      0.25
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "pipe-plastic",
+    "plumbing"
+   ],
+   "images": [
+    "/uploads/npi-p25-1-60e73749.webp",
+    "/uploads/npi-p25-2-e67498e5.webp"
+   ],
+   "sizes": [
+    [
+     571,
+     900
+    ],
+    [
+     444,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P26",
+   "slug": "npi-heavy-duty-snap-off-cutter",
+   "name": "NPI Heavy-Duty Snap-Off Cutter",
+   "category": "cutters",
+   "price": 65000,
+   "specs": [
+    {
+     "label": "Blade",
+     "value": "18 mm snap-off"
+    },
+    {
+     "label": "Body",
+     "value": "Metal, heavy duty"
+    },
+    {
+     "label": "Lock",
+     "value": "Auto-lock slider"
+    },
+    {
+     "label": "Spares",
+     "value": "Blades included"
+    }
+   ],
+   "description": "A metal-bodied snap-off utility knife with an auto-locking slider. Snap off a segment for a fresh, razor-sharp edge every time.",
+   "uses": [
+    "Cartons and packaging",
+    "Gypsum board",
+    "Carpet and vinyl",
+    "Leather and rubber"
+   ],
+   "demo": {
+    "type": "knife",
+    "img": 0,
+    "tip": [
+     0.47,
+     0.0
+    ],
+    "spots": [
+     [
+      0.47,
+      0.0
+     ],
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.5,
+      0.8
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "board-cut"
+   ],
+   "images": [
+    "/uploads/npi-p26-1-b0a4db51.webp",
+    "/uploads/npi-p26-2-7a90cdf3.webp"
+   ],
+   "sizes": [
+    [
+     195,
+     900
+    ],
+    [
+     244,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P27",
+   "slug": "npi-hacksaw-frame",
+   "name": "NPI Hacksaw Frame",
+   "category": "cutters",
+   "price": 110000,
+   "specs": [
+    {
+     "label": "Blade",
+     "value": "12 in (300 mm), included"
+    },
+    {
+     "label": "Frame",
+     "value": "Steel, tensioned"
+    },
+    {
+     "label": "Handle",
+     "value": "Rubber pistol grip"
+    }
+   ],
+   "description": "A rigid, high-tension hacksaw frame with a rubber pistol grip for straight, controlled cuts through metal, pipe and plastic.",
+   "uses": [
+    "Cutting steel rod and pipe",
+    "Bolts and threaded bar",
+    "PVC and conduit"
+   ],
+   "demo": {
+    "type": "hacksaw",
+    "tip": [
+     0.1,
+     0.42
+    ],
+    "spots": [
+     [
+      0.1,
+      0.42
+     ],
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.5,
+      0.72
+     ]
+    ]
+   },
+   "tags": [
+    "metal-cut",
+    "plumbing"
+   ],
+   "images": [
+    "/uploads/npi-p27-1-c48875f1.webp"
+   ],
+   "sizes": [
+    [
+     225,
+     900
+    ]
+   ],
+   "motion": "snip",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P28",
+   "slug": "electric-planer-blades-pair",
+   "name": "Electric Planer Blades (Pair)",
+   "category": "cutters",
+   "price": 90000,
+   "specs": [
+    {
+     "label": "Pieces",
+     "value": "2"
+    },
+    {
+     "label": "Type",
+     "value": "Reversible planer knives"
+    },
+    {
+     "label": "Fits",
+     "value": "82 mm electric planers"
+    }
+   ],
+   "description": "A replacement pair of reversible planer knives. Turn them over when one edge dulls for twice the working life.",
+   "uses": [
+    "Electric hand planers",
+    "Door and frame trimming",
+    "Woodworking"
+   ],
+   "demo": {
+    "type": "planer",
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.8
+     ]
+    ]
+   },
+   "tags": [
+    "wood-plane",
+    "woodwork"
+   ],
+   "images": [
+    "/uploads/npi-p28-1-503b2c23.webp"
+   ],
+   "sizes": [
+    [
+     726,
+     816
+    ]
+   ],
+   "motion": "zoom",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P29",
+   "slug": "npi-turbo-diamond-cutting-disc-125-mm",
+   "name": "NPI Turbo Diamond Cutting Disc 125 mm",
+   "category": "cutters",
+   "price": 65000,
+   "specs": [
+    {
+     "label": "Size",
+     "value": "Ø125 × 1.2 × 10 × 22.23 mm"
+    },
+    {
+     "label": "Type",
+     "value": "Hot-pressed turbo diamond"
+    },
+    {
+     "label": "Cuts",
+     "value": "Tile, marble, granite, concrete"
+    }
+   ],
+   "description": "A hot-pressed turbo diamond blade for angle grinders: ultra-thin 1.2 mm rim for fast, chip-free cuts in tile, marble and granite.",
+   "uses": [
+    "Tile and ceramic",
+    "Marble and granite",
+    "Concrete and block"
+   ],
+   "demo": {
+    "type": "disc",
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.175
+     ]
+    ]
+   },
+   "tags": [
+    "tile-cut",
+    "tiling",
+    "masonry"
+   ],
+   "images": [
+    "/uploads/npi-p29-1-857b3a59.webp"
+   ],
+   "sizes": [
+    [
+     899,
+     900
+    ]
+   ],
+   "motion": "spin",
+   "featured": true,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P30",
+   "slug": "npi-adjustable-wrench-black",
+   "name": "NPI Adjustable Wrench (Black)",
+   "category": "wrenches",
+   "price": 165000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Adjustable spanner"
+    },
+    {
+     "label": "Finish",
+     "value": "Black phosphate"
+    },
+    {
+     "label": "Jaw",
+     "value": "Wide opening, polished"
+    },
+    {
+     "label": "Handle",
+     "value": "Rubber comfort grip"
+    }
+   ],
+   "description": "A heavy adjustable wrench with a wide-opening polished jaw and a rubber comfort grip. One tool replaces a whole set of spanners.",
+   "uses": [
+    "Plumbing fittings",
+    "Nuts and bolts",
+    "Machinery maintenance",
+    "Automotive work"
+   ],
+   "demo": {
+    "type": "wrench",
+    "tip": [
+     0.42,
+     0.14
+    ],
+    "spots": [
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.45
+     ],
+     [
+      0.42,
+      0.22
+     ],
+     [
+      0.5,
+      0.72
+     ]
+    ]
+   },
+   "tags": [
+    "nuts",
+    "plumbing",
+    "automotive"
+   ],
+   "images": [
+    "/uploads/npi-p30-1-978bd90a.webp",
+    "/uploads/npi-p30-2-bce82b0d.webp"
+   ],
+   "sizes": [
+    [
+     252,
+     900
+    ],
+    [
+     257,
+     900
+    ]
+   ],
+   "motion": "turn",
+   "featured": true,
+   "stock": 25
+  },
+  {
+   "sku": "TF-11",
+   "slug": "socket-set-1-2-11-pcs",
+   "name": "Socket Set 1/2\" (11 pcs)",
+   "category": "wrenches",
+   "price": 380000,
+   "specs": [
+    {
+     "label": "Pieces",
+     "value": "11"
+    },
+    {
+     "label": "Drive",
+     "value": "1/2 in"
+    },
+    {
+     "label": "Material",
+     "value": "Chrome vanadium"
+    },
+    {
+     "label": "Includes",
+     "value": "Ratchet, extension, sockets"
+    }
+   ],
+   "description": "A complete 1/2\" drive socket kit: quick-reverse ratchet, extension bar and chrome-vanadium sockets on a storage rail.",
+   "uses": [
+    "Car and motorcycle repair",
+    "Machinery assembly",
+    "Generator and pump service"
+   ],
+   "demo": {
+    "type": "sockets",
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "socket-drive",
+    "nuts",
+    "automotive"
+   ],
+   "images": [
+    "/uploads/npi-p31-1-3eceecb8.webp",
+    "/uploads/npi-p31-2-045f91b3.webp",
+    "/uploads/npi-p31-3-e514bf9e.webp"
+   ],
+   "sizes": [
+    [
+     278,
+     900
+    ],
+    [
+     280,
+     900
+    ],
+    [
+     577,
+     900
+    ]
+   ],
+   "motion": "zoom",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P32",
+   "slug": "cr-v-allen-key-set-9-pcs",
+   "name": "CR-V Allen Key Set (9 pcs)",
+   "category": "wrenches",
+   "price": 95000,
+   "specs": [
+    {
+     "label": "Pieces",
+     "value": "9"
+    },
+    {
+     "label": "Material",
+     "value": "Chrome vanadium (CR-V)"
+    },
+    {
+     "label": "Type",
+     "value": "L-shaped keys"
+    },
+    {
+     "label": "Holder",
+     "value": "Size-marked clip"
+    }
+   ],
+   "description": "Nine CR-V L-keys in a colour-coded holder with every size marked, so you grab the right key first time.",
+   "uses": [
+    "Furniture assembly",
+    "Machinery and bikes",
+    "Door hardware"
+   ],
+   "demo": {
+    "type": "keys",
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "hex-socket"
+   ],
+   "images": [
+    "/uploads/npi-p32-1-94e5d6b7.webp",
+    "/uploads/npi-p32-2-8b0bf122.webp"
+   ],
+   "sizes": [
+    [
+     443,
+     900
+    ],
+    [
+     844,
+     900
+    ]
+   ],
+   "motion": "turn",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P33",
+   "slug": "npi-t-handle-socket-wrench",
+   "name": "NPI T-Handle Socket Wrench",
+   "category": "wrenches",
+   "price": 45000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "T-handle box spanner"
+    },
+    {
+     "label": "Finish",
+     "value": "Black oxide"
+    },
+    {
+     "label": "Grip",
+     "value": "Sliding T-bar"
+    }
+   ],
+   "description": "A T-handle box wrench for fast spinning of nuts on long studs and recessed bolts.",
+   "uses": [
+    "Motorcycle repair",
+    "Recessed nuts",
+    "Assembly lines"
+   ],
+   "demo": {
+    "type": "twrench",
+    "tip": [
+     0.5,
+     0.99
+    ],
+    "spots": [
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.5,
+      0.72
+     ]
+    ]
+   },
+   "tags": [
+    "recessed-nuts",
+    "nuts",
+    "automotive"
+   ],
+   "images": [
+    "/uploads/npi-p33-1-af97c971.webp"
+   ],
+   "sizes": [
+    [
+     567,
+     900
+    ]
+   ],
+   "motion": "turn",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NP1008",
+   "slug": "npi-measuring-tape-5-m-16-ft-np1008",
+   "name": "NPI Measuring Tape 5 m / 16 ft (NP1008)",
+   "category": "tapes",
+   "price": 75000,
+   "specs": [
+    {
+     "label": "Length",
+     "value": "5 m / 16 ft"
+    },
+    {
+     "label": "Blade width",
+     "value": "19 mm"
+    },
+    {
+     "label": "Case",
+     "value": "Rubber-armoured ABS"
+    },
+    {
+     "label": "Model",
+     "value": "NP1008"
+    }
+   ],
+   "description": "A rubber-armoured 5 m tape with a wide 19 mm blade, belt clip and wrist strap. Clear metric and imperial markings.",
+   "uses": [
+    "Construction and fit-out",
+    "Carpentry",
+    "Interior measurements"
+   ],
+   "demo": {
+    "type": "tape",
+    "tip": [
+     0.1,
+     0.92
+    ],
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.1,
+      0.61
+     ],
+     [
+      0.5,
+      0.8
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "measure-mid",
+    "woodwork"
+   ],
+   "images": [
+    "/uploads/npi-p34-1-1ab6e367.webp",
+    "/uploads/npi-p34-2-8d0c5472.webp"
+   ],
+   "sizes": [
+    [
+     715,
+     900
+    ],
+    [
+     355,
+     900
+    ]
+   ],
+   "motion": "pull",
+   "featured": true,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P35",
+   "slug": "npi-great-wall-measuring-tape-3-5-m",
+   "name": "NPI Great Wall Measuring Tape 3.5 m",
+   "category": "tapes",
+   "price": 55000,
+   "specs": [
+    {
+     "label": "Length",
+     "value": "3.5 m / 12 ft (also 3 m)"
+    },
+    {
+     "label": "Blade width",
+     "value": "16 mm"
+    },
+    {
+     "label": "Case",
+     "value": "100% new ABS"
+    },
+    {
+     "label": "Claim",
+     "value": "Extra 40% longer life"
+    }
+   ],
+   "description": "A compact everyday tape in a tough red ABS case with wrist strap. Small enough for a pocket, accurate enough for the site.",
+   "uses": [
+    "Home use",
+    "Tailoring and interiors",
+    "Quick site checks"
+   ],
+   "demo": {
+    "type": "tape",
+    "img": 0,
+    "tip": [
+     0.08,
+     0.88
+    ],
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.08,
+      0.59
+     ],
+     [
+      0.5,
+      0.8
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "measure-short"
+   ],
+   "images": [
+    "/uploads/npi-p35-1-ab23030c.webp",
+    "/uploads/npi-p35-2-175339c5.webp",
+    "/uploads/npi-p35-3-6e3027c7.webp",
+    "/uploads/npi-p35-4-a420b324.webp"
+   ],
+   "sizes": [
+    [
+     900,
+     726
+    ],
+    [
+     900,
+     620
+    ],
+    [
+     900,
+     719
+    ],
+    [
+     900,
+     702
+    ]
+   ],
+   "motion": "pull",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P36",
+   "slug": "npi-colour-measuring-tape-5-m",
+   "name": "NPI Colour Measuring Tape 5 m",
+   "category": "tapes",
+   "price": 65000,
+   "specs": [
+    {
+     "label": "Length",
+     "value": "5 m / 16 ft"
+    },
+    {
+     "label": "Colours",
+     "value": "Orange, green"
+    },
+    {
+     "label": "Case",
+     "value": "ABS with wrist strap"
+    },
+    {
+     "label": "Lock",
+     "value": "Blade lock"
+    }
+   ],
+   "description": "Bright, colourful 5 m tapes that never get lost on site. Blade lock, belt clip and wrist strap included.",
+   "uses": [
+    "Construction",
+    "Woodwork",
+    "Shops and retail counters"
+   ],
+   "demo": {
+    "type": "tape",
+    "tip": [
+     0.15,
+     0.92
+    ],
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.8
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "measure-mid"
+   ],
+   "images": [
+    "/uploads/npi-p36-1-3a50307a.webp",
+    "/uploads/npi-p36-2-ca8d1a66.webp",
+    "/uploads/npi-p36-3-ff74ee67.webp",
+    "/uploads/npi-p36-4-55d7b502.webp",
+    "/uploads/npi-p36-5-ce8d4762.webp"
+   ],
+   "sizes": [
+    [
+     506,
+     900
+    ],
+    [
+     900,
+     818
+    ],
+    [
+     617,
+     900
+    ],
+    [
+     538,
+     900
+    ],
+    [
+     139,
+     900
+    ]
+   ],
+   "motion": "pull",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P37",
+   "slug": "npi-colour-measuring-tape-3-5-m",
+   "name": "NPI Colour Measuring Tape 3.5 m",
+   "category": "tapes",
+   "price": 45000,
+   "specs": [
+    {
+     "label": "Length",
+     "value": "3.5 m / 12 ft"
+    },
+    {
+     "label": "Colours",
+     "value": "Yellow, red"
+    },
+    {
+     "label": "Case",
+     "value": "ABS with wrist strap"
+    },
+    {
+     "label": "Lock",
+     "value": "Blade lock"
+    }
+   ],
+   "description": "A pocket-size 3.5 m tape in bright yellow or red. Ideal for homes, tailors and quick measurements.",
+   "uses": [
+    "Home use",
+    "Tailoring",
+    "Interior work"
+   ],
+   "demo": {
+    "type": "tape",
+    "tip": [
+     0.66,
+     0.95
+    ],
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.8
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "measure-short"
+   ],
+   "images": [
+    "/uploads/npi-p37-1-6e412896.webp",
+    "/uploads/npi-p37-2-4f8b89e5.webp",
+    "/uploads/npi-p37-3-61810d7d.webp"
+   ],
+   "sizes": [
+    [
+     783,
+     900
+    ],
+    [
+     900,
+     758
+    ],
+    [
+     668,
+     900
+    ]
+   ],
+   "motion": "pull",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P38",
+   "slug": "milestone-fibreglass-long-tape-15-m-50-ft",
+   "name": "Milestone Fibreglass Long Tape 15 m / 50 ft",
+   "category": "tapes",
+   "price": 140000,
+   "specs": [
+    {
+     "label": "Length",
+     "value": "15 m / 50 ft"
+    },
+    {
+     "label": "Tape",
+     "value": "Fibreglass, non-conductive"
+    },
+    {
+     "label": "Case",
+     "value": "Closed reel with winding handle"
+    }
+   ],
+   "description": "A closed-reel fibreglass tape for long distances. It won't stretch, rust or conduct electricity, and winds back fast with the folding handle.",
+   "uses": [
+    "Plot and land measurement",
+    "Sports fields",
+    "Building layout"
+   ],
+   "demo": {
+    "type": "longtape",
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.8
+     ]
+    ]
+   },
+   "tags": [
+    "measure-long"
+   ],
+   "images": [
+    "/uploads/npi-p38-1-c443b64a.webp",
+    "/uploads/npi-p38-2-5ce53f2e.webp"
+   ],
+   "sizes": [
+    [
+     412,
+     900
+    ],
+    [
+     900,
+     816
+    ]
+   ],
+   "motion": "pull",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P39",
+   "slug": "npi-steel-long-measuring-tape-30-m-100-ft",
+   "name": "NPI Steel Long Measuring Tape 30 m / 100 ft",
+   "category": "tapes",
+   "price": 290000,
+   "specs": [
+    {
+     "label": "Length",
+     "value": "30 m / 100 ft"
+    },
+    {
+     "label": "Tape",
+     "value": "Steel blade"
+    },
+    {
+     "label": "Case",
+     "value": "Impact-resistant reel"
+    },
+    {
+     "label": "Winding",
+     "value": "Folding crank handle"
+    }
+   ],
+   "description": "A professional 30 m steel tape for surveyors and contractors. The steel blade gives precise long readings that don't sag or stretch.",
+   "uses": [
+    "Site surveying",
+    "Plot measurement",
+    "Road and boundary work"
+   ],
+   "demo": {
+    "type": "longtape",
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.8
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "measure-xl"
+   ],
+   "images": [
+    "/uploads/npi-p39-1-a19d98a0.webp",
+    "/uploads/npi-p39-2-1315d0f1.webp",
+    "/uploads/npi-p39-3-57e06987.webp"
+   ],
+   "sizes": [
+    [
+     855,
+     900
+    ],
+    [
+     900,
+     746
+    ],
+    [
+     130,
+     900
+    ]
+   ],
+   "motion": "pull",
+   "featured": true,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P40",
+   "slug": "sola-aluminium-box-level",
+   "name": "Sola Aluminium Box Level",
+   "category": "levels",
+   "price": 280000,
+   "specs": [
+    {
+     "label": "Brand",
+     "value": "Sola"
+    },
+    {
+     "label": "Body",
+     "value": "Aluminium, yellow"
+    },
+    {
+     "label": "Vials",
+     "value": "Level + plumb"
+    },
+    {
+     "label": "Scale",
+     "value": "Printed ruler edge"
+    }
+   ],
+   "description": "A premium Sola aluminium level with crystal-clear vials and a printed ruler edge. Accurate readings for tiling, masonry and fitting.",
+   "uses": [
+    "Tiling",
+    "Masonry and block work",
+    "Door and window fitting"
+   ],
+   "demo": {
+    "type": "level",
+    "img": 0,
+    "vial": [
+     0.82,
+     0.5
+    ],
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.82,
+      0.5
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "level-long",
+    "tiling",
+    "masonry"
+   ],
+   "images": [
+    "/uploads/npi-p40-1-ffd08b68.webp",
+    "/uploads/npi-p40-2-88a16102.webp"
+   ],
+   "sizes": [
+    [
+     166,
+     900
+    ],
+    [
+     900,
+     156
+    ]
+   ],
+   "motion": "tilt",
+   "featured": true,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P41",
+   "slug": "npi-aluminium-spirit-level-3-vials",
+   "name": "NPI Aluminium Spirit Level (3 Vials)",
+   "category": "levels",
+   "price": 165000,
+   "specs": [
+    {
+     "label": "Body",
+     "value": "Aluminium"
+    },
+    {
+     "label": "Vials",
+     "value": "3 (level, plumb, 45°)"
+    },
+    {
+     "label": "Scale",
+     "value": "Ruler edge"
+    }
+   ],
+   "description": "A sturdy aluminium level with three vials for horizontal, vertical and 45° readings, all in one tool.",
+   "uses": [
+    "Shelving and cabinets",
+    "Tiling",
+    "Frames and fixtures"
+   ],
+   "demo": {
+    "type": "level",
+    "vial": [
+     0.7,
+     0.5
+    ],
+    "spots": [
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.7,
+      0.5
+     ],
+     [
+      0.5,
+      0.8
+     ]
+    ]
+   },
+   "tags": [
+    "level-long",
+    "tiling"
+   ],
+   "images": [
+    "/uploads/npi-p41-1-a640aff9.webp",
+    "/uploads/npi-p41-2-4313c0a5.webp"
+   ],
+   "sizes": [
+    [
+     153,
+     900
+    ],
+    [
+     152,
+     900
+    ]
+   ],
+   "motion": "tilt",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P42",
+   "slug": "aluminium-slim-level-silver",
+   "name": "Aluminium Slim Level (Silver)",
+   "category": "levels",
+   "price": 90000,
+   "specs": [
+    {
+     "label": "Body",
+     "value": "Slim aluminium"
+    },
+    {
+     "label": "Vials",
+     "value": "1 centre vial"
+    }
+   ],
+   "description": "A slim, lightweight aluminium level for quick checks on shelves, frames and fittings.",
+   "uses": [
+    "Picture frames",
+    "Shelves",
+    "Light fitting work"
+   ],
+   "demo": {
+    "type": "level",
+    "vial": [
+     0.48,
+     0.48
+    ],
+    "spots": [
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.48,
+      0.48
+     ]
+    ]
+   },
+   "tags": [
+    "level-long"
+   ],
+   "images": [
+    "/uploads/npi-p42-1-9b4963c6.webp"
+   ],
+   "sizes": [
+    [
+     72,
+     900
+    ]
+   ],
+   "motion": "tilt",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P43",
+   "slug": "slim-spirit-level-yellow",
+   "name": "Slim Spirit Level (Yellow)",
+   "category": "levels",
+   "price": 85000,
+   "specs": [
+    {
+     "label": "Body",
+     "value": "Slim profile, yellow"
+    },
+    {
+     "label": "Vials",
+     "value": "1 centre vial"
+    }
+   ],
+   "description": "A long, slim level in high-visibility yellow for masonry and plastering checks.",
+   "uses": [
+    "Plastering",
+    "Masonry",
+    "General levelling"
+   ],
+   "demo": {
+    "type": "level",
+    "vial": [
+     0.5,
+     0.5
+    ],
+    "spots": [
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.5,
+      0.5
+     ]
+    ]
+   },
+   "tags": [
+    "level-long",
+    "masonry"
+   ],
+   "images": [
+    "/uploads/npi-p43-1-ec7e24dc.webp"
+   ],
+   "sizes": [
+    [
+     69,
+     900
+    ]
+   ],
+   "motion": "tilt",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P44",
+   "slug": "torpedo-level-red",
+   "name": "Torpedo Level (Red)",
+   "category": "levels",
+   "price": 75000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Torpedo"
+    },
+    {
+     "label": "Vials",
+     "value": "3"
+    },
+    {
+     "label": "Body",
+     "value": "Red, compact"
+    }
+   ],
+   "description": "A compact three-vial torpedo level that fits in a pocket but gives full-size accuracy.",
+   "uses": [
+    "Conduit and pipework",
+    "Appliance installation",
+    "Tight spaces"
+   ],
+   "demo": {
+    "type": "level",
+    "len": 520,
+    "vial": [
+     0.5,
+     0.5
+    ],
+    "spots": [
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "level-short"
+   ],
+   "images": [
+    "/uploads/npi-p44-1-6fed261c.webp"
+   ],
+   "sizes": [
+    [
+     159,
+     900
+    ]
+   ],
+   "motion": "tilt",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P45",
+   "slug": "torpedo-level-blue",
+   "name": "Torpedo Level (Blue)",
+   "category": "levels",
+   "price": 65000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Torpedo"
+    },
+    {
+     "label": "Vials",
+     "value": "3"
+    },
+    {
+     "label": "Body",
+     "value": "Blue/black, compact"
+    }
+   ],
+   "description": "A small three-vial torpedo level with a hanging hole: handy, light and accurate.",
+   "uses": [
+    "Electrical boxes",
+    "Plumbing",
+    "Small fixtures"
+   ],
+   "demo": {
+    "type": "level",
+    "len": 480,
+    "vial": [
+     0.5,
+     0.5
+    ],
+    "spots": [
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "level-short"
+   ],
+   "images": [
+    "/uploads/npi-p45-1-640e38f1.webp"
+   ],
+   "sizes": [
+    [
+     159,
+     900
+    ]
+   ],
+   "motion": "tilt",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P46",
+   "slug": "torpedo-level-sky-blue",
+   "name": "Torpedo Level (Sky Blue)",
+   "category": "levels",
+   "price": 60000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Torpedo"
+    },
+    {
+     "label": "Vials",
+     "value": "3"
+    },
+    {
+     "label": "Body",
+     "value": "Sky blue/black"
+    }
+   ],
+   "description": "An affordable three-vial torpedo level for everyday levelling jobs.",
+   "uses": [
+    "Home DIY",
+    "Fixtures and fittings",
+    "Pipe work"
+   ],
+   "demo": {
+    "type": "level",
+    "len": 480,
+    "vial": [
+     0.5,
+     0.5
+    ],
+    "spots": [
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.35
+     ]
+    ]
+   },
+   "tags": [
+    "level-short"
+   ],
+   "images": [
+    "/uploads/npi-p46-1-972257e8.webp"
+   ],
+   "sizes": [
+    [
+     204,
+     900
+    ]
+   ],
+   "motion": "tilt",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P47",
+   "slug": "mason-s-pointed-level",
+   "name": "Mason's Pointed Level",
+   "category": "levels",
+   "price": 45000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Pointed mason level"
+    },
+    {
+     "label": "Vials",
+     "value": "1 centre vial"
+    },
+    {
+     "label": "Colours",
+     "value": "Sky blue, black"
+    }
+   ],
+   "description": "A traditional pointed-end mason's level, light and easy to use on bricks, blocks and plaster.",
+   "uses": [
+    "Brick and block laying",
+    "Plaster work",
+    "Tile checks"
+   ],
+   "demo": {
+    "type": "mason",
+    "vial": [
+     0.5,
+     0.5
+    ],
+    "spots": [
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.8
+     ]
+    ]
+   },
+   "tags": [
+    "masonry",
+    "tiling"
+   ],
+   "images": [
+    "/uploads/npi-p47-1-383b3ade.webp",
+    "/uploads/npi-p47-2-078d27a3.webp"
+   ],
+   "sizes": [
+    [
+     86,
+     900
+    ],
+    [
+     61,
+     900
+    ]
+   ],
+   "motion": "tilt",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P48",
+   "slug": "npi-claw-hammer-fibreglass-handle",
+   "name": "NPI Claw Hammer (Fibreglass Handle)",
+   "category": "hammers",
+   "price": 145000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Claw hammer"
+    },
+    {
+     "label": "Head",
+     "value": "Forged, polished face"
+    },
+    {
+     "label": "Handle",
+     "value": "Fibreglass, anti-shock orange grip"
+    }
+   ],
+   "description": "A forged claw hammer on a fibreglass handle that absorbs shock. Drive nails hard all day, then use the curved claw to pull them.",
+   "uses": [
+    "Carpentry and shuttering",
+    "Nailing and demolition",
+    "General construction"
+   ],
+   "demo": {
+    "type": "hammer",
+    "tip": [
+     0.03,
+     0.07
+    ],
+    "pivot": [
+     0.45,
+     0.97
+    ],
+    "spots": [
+     [
+      0.45,
+      0.97
+     ],
+     [
+      0.35,
+      0.07
+     ],
+     [
+      0.5,
+      0.72
+     ]
+    ]
+   },
+   "tags": [
+    "nailing",
+    "woodwork",
+    "nail-pull"
+   ],
+   "images": [
+    "/uploads/npi-p48-1-d319788b.webp",
+    "/uploads/npi-p48-2-8622e2a9.webp"
+   ],
+   "sizes": [
+    [
+     342,
+     900
+    ],
+    [
+     342,
+     900
+    ]
+   ],
+   "motion": "swing",
+   "featured": true,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P49",
+   "slug": "ktc-claw-hammer-green-grip",
+   "name": "KTC Claw Hammer (Green Grip)",
+   "category": "hammers",
+   "price": 125000,
+   "specs": [
+    {
+     "label": "Brand",
+     "value": "KTC"
+    },
+    {
+     "label": "Type",
+     "value": "Claw hammer"
+    },
+    {
+     "label": "Head",
+     "value": "Forged steel"
+    },
+    {
+     "label": "Handle",
+     "value": "Green rubber grip"
+    }
+   ],
+   "description": "A well-balanced claw hammer with a forged head and a non-slip green rubber grip.",
+   "uses": [
+    "Carpentry",
+    "Home repairs",
+    "Furniture work"
+   ],
+   "demo": {
+    "type": "hammer",
+    "tip": [
+     0.03,
+     0.07
+    ],
+    "pivot": [
+     0.45,
+     0.97
+    ],
+    "spots": [
+     [
+      0.5,
+      0.2
+     ],
+     [
+      0.45,
+      0.97
+     ],
+     [
+      0.35,
+      0.07
+     ],
+     [
+      0.5,
+      0.72
+     ]
+    ]
+   },
+   "tags": [
+    "nailing",
+    "woodwork"
+   ],
+   "images": [
+    "/uploads/npi-p49-1-39d2be52.webp",
+    "/uploads/npi-p49-2-be3a6e2e.webp"
+   ],
+   "sizes": [
+    [
+     322,
+     900
+    ],
+    [
+     322,
+     900
+    ]
+   ],
+   "motion": "swing",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P50",
+   "slug": "npi-hss-cobalt-drill-bit-set-orange-case",
+   "name": "NPI HSS Cobalt Drill Bit Set (Orange Case)",
+   "category": "drilling",
+   "price": 260000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "HSS-Co cobalt twist bits"
+    },
+    {
+     "label": "For",
+     "value": "Stainless & hard steel"
+    },
+    {
+     "label": "Case",
+     "value": "Indexed plastic case"
+    }
+   ],
+   "description": "Cobalt-alloy HSS bits for drilling stainless steel and hard metals. They stay sharp where ordinary bits burn out.",
+   "uses": [
+    "Stainless steel",
+    "Hard steel and cast iron",
+    "Fabrication shops"
+   ],
+   "demo": {
+    "type": "drill",
+    "material": "stainless",
+    "finish": "gold",
+    "spots": [
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.8
+     ]
+    ]
+   },
+   "tags": [
+    "drill-stainless",
+    "drill-steel"
+   ],
+   "images": [
+    "/uploads/npi-p50-1-939e29db.webp"
+   ],
+   "sizes": [
+    [
+     574,
+     900
+    ]
+   ],
+   "motion": "zoom",
+   "featured": true,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P51",
+   "slug": "npi-hss-drill-bit-set-blue-case",
+   "name": "NPI HSS Drill Bit Set (Blue Case)",
+   "category": "drilling",
+   "price": 160000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "HSS twist bits"
+    },
+    {
+     "label": "For",
+     "value": "Steel, aluminium, wood, plastic"
+    },
+    {
+     "label": "Case",
+     "value": "Indexed plastic case"
+    }
+   ],
+   "description": "A graded set of HSS twist bits in an indexed case, the everyday metal-drilling kit.",
+   "uses": [
+    "Mild steel",
+    "Aluminium",
+    "Wood and plastic"
+   ],
+   "demo": {
+    "type": "drill",
+    "material": "steel",
+    "finish": "steel",
+    "spots": [
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.8
+     ]
+    ]
+   },
+   "tags": [
+    "drill-steel",
+    "drill-wood"
+   ],
+   "images": [
+    "/uploads/npi-p51-1-054b5ed6.webp"
+   ],
+   "sizes": [
+    [
+     554,
+     870
+    ]
+   ],
+   "motion": "zoom",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P52",
+   "slug": "npi-hss-twist-drill-bit-fully-ground",
+   "name": "NPI HSS Twist Drill Bit (Fully Ground)",
+   "category": "drilling",
+   "price": 15000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "HSS fully ground"
+    },
+    {
+     "label": "Sold",
+     "value": "Per piece; all common sizes"
+    }
+   ],
+   "description": "A bright, fully-ground HSS twist bit for clean, accurate holes in metal. Sold individually: ask for your size.",
+   "uses": [
+    "Metal drilling",
+    "Workshop stock",
+    "Replacement bits"
+   ],
+   "demo": {
+    "type": "drill",
+    "material": "steel",
+    "finish": "steel",
+    "spots": [
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.5
+     ]
+    ]
+   },
+   "tags": [
+    "drill-steel"
+   ],
+   "images": [
+    "/uploads/npi-p52-1-9951967c.webp",
+    "/uploads/npi-p52-2-32f8a0d4.webp"
+   ],
+   "sizes": [
+    [
+     577,
+     900
+    ],
+    [
+     319,
+     900
+    ]
+   ],
+   "motion": "drill",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P53",
+   "slug": "npi-masonry-drill-bit",
+   "name": "NPI Masonry Drill Bit",
+   "category": "drilling",
+   "price": 22000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Carbide-tipped masonry"
+    },
+    {
+     "label": "Length",
+     "value": "100 mm"
+    },
+    {
+     "label": "Pack",
+     "value": "Protective tube"
+    }
+   ],
+   "description": "A carbide-tipped bit for brick, block and concrete, packed in a protective tube.",
+   "uses": [
+    "Wall plugs and anchors",
+    "Brick and block",
+    "Concrete"
+   ],
+   "demo": {
+    "type": "drill",
+    "material": "concrete",
+    "finish": "black",
+    "spots": [
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.8
+     ]
+    ]
+   },
+   "tags": [
+    "drill-concrete"
+   ],
+   "images": [
+    "/uploads/npi-p53-1-a49f9497.webp",
+    "/uploads/npi-p53-2-8ed7aad1.webp"
+   ],
+   "sizes": [
+    [
+     138,
+     900
+    ],
+    [
+     56,
+     900
+    ]
+   ],
+   "motion": "zoom",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P54",
+   "slug": "npi-long-drill-bit-tube-pack",
+   "name": "NPI Long Drill Bit (Tube Pack)",
+   "category": "drilling",
+   "price": 45000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Long-series bit"
+    },
+    {
+     "label": "Pack",
+     "value": "Protective tube"
+    }
+   ],
+   "description": "A long-series drill bit for deep holes, delivered in a sturdy protective tube.",
+   "uses": [
+    "Deep holes",
+    "Through-wall drilling",
+    "Cable routing"
+   ],
+   "demo": {
+    "type": "drill",
+    "material": "wood",
+    "finish": "black",
+    "long": true,
+    "spots": [
+     [
+      0.5,
+      0.3
+     ],
+     [
+      0.5,
+      0.5
+     ]
+    ]
+   },
+   "tags": [
+    "drill-deep",
+    "drill-wood"
+   ],
+   "images": [
+    "/uploads/npi-p54-1-908eb908.webp"
+   ],
+   "sizes": [
+    [
+     102,
+     900
+    ]
+   ],
+   "motion": "zoom",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P55",
+   "slug": "npi-hand-riveter-blue",
+   "name": "NPI Hand Riveter (Blue)",
+   "category": "riveting",
+   "price": 135000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Hand rivet gun"
+    },
+    {
+     "label": "Rivets",
+     "value": "2.4 / 3.2 / 4.0 / 4.8 mm"
+    },
+    {
+     "label": "Nozzles",
+     "value": "Interchangeable, stored on tool"
+    }
+   ],
+   "description": "A hand rivet gun with four interchangeable nozzles stored on the tool. Join sheet metal, aluminium and plastics in seconds.",
+   "uses": [
+    "Aluminium windows and doors",
+    "Sheet metal and ducting",
+    "Signboards"
+   ],
+   "demo": {
+    "type": "riveter",
+    "hinge": "lever",
+    "img": 0,
+    "pivot": [
+     0.4,
+     0.15
+    ],
+    "tip": [
+     0.95,
+     0.05
+    ],
+    "lever": "right",
+    "rot": 90,
+    "spots": [
+     [
+      0.4,
+      0.15
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.8
+     ]
+    ]
+   },
+   "tags": [
+    "rivet"
+   ],
+   "images": [
+    "/uploads/npi-p55-1-1158a316.webp",
+    "/uploads/npi-p55-2-909a8db2.webp"
+   ],
+   "sizes": [
+    [
+     409,
+     900
+    ],
+    [
+     802,
+     900
+    ]
+   ],
+   "motion": "squeeze",
+   "featured": true,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P56",
+   "slug": "hand-riveter-red",
+   "name": "Hand Riveter (Red)",
+   "category": "riveting",
+   "price": 135000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Hand rivet gun"
+    },
+    {
+     "label": "Rivets",
+     "value": "2.4 / 3.2 / 4.0 / 4.8 mm"
+    },
+    {
+     "label": "Nozzles",
+     "value": "Interchangeable, stored on tool"
+    }
+   ],
+   "description": "A strong hand riveter with long handles for easy pulling and four nozzle sizes on board.",
+   "uses": [
+    "Aluminium fabrication",
+    "Ducting",
+    "Vehicle body work"
+   ],
+   "demo": {
+    "type": "riveter",
+    "hinge": "lever",
+    "img": 0,
+    "pivot": [
+     0.6,
+     0.12
+    ],
+    "tip": [
+     0.95,
+     0.04
+    ],
+    "lever": "right",
+    "rot": 90,
+    "spots": [
+     [
+      0.6,
+      0.12
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.8
+     ]
+    ]
+   },
+   "tags": [
+    "rivet"
+   ],
+   "images": [
+    "/uploads/npi-p56-1-c0e7ad55.webp",
+    "/uploads/npi-p56-2-982ead74.webp"
+   ],
+   "sizes": [
+    [
+     623,
+     900
+    ],
+    [
+     373,
+     900
+    ]
+   ],
+   "motion": "squeeze",
+   "featured": false,
+   "stock": 25
+  },
+  {
+   "sku": "NPI-P57",
+   "slug": "hand-riveter-yellow",
+   "name": "Hand Riveter (Yellow)",
+   "category": "riveting",
+   "price": 135000,
+   "specs": [
+    {
+     "label": "Type",
+     "value": "Hand rivet gun"
+    },
+    {
+     "label": "Rivets",
+     "value": "2.4 / 3.2 / 4.0 / 4.8 mm"
+    },
+    {
+     "label": "Nozzles",
+     "value": "Interchangeable, stored on tool"
+    }
+   ],
+   "description": "A high-visibility yellow riveter with a return spring and four nozzle sizes.",
+   "uses": [
+    "Sheet metal",
+    "Aluminium work",
+    "General fabrication"
+   ],
+   "demo": {
+    "type": "riveter",
+    "hinge": "lever",
+    "img": 0,
+    "pivot": [
+     0.35,
+     0.1
+    ],
+    "tip": [
+     0.75,
+     0.05
+    ],
+    "lever": "right",
+    "rot": 90,
+    "spots": [
+     [
+      0.35,
+      0.1
+     ],
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.8
+     ]
+    ]
+   },
+   "tags": [
+    "rivet"
+   ],
+   "images": [
+    "/uploads/npi-p57-1-f8c860bb.webp",
+    "/uploads/npi-p57-2-cf7b6f84.webp"
+   ],
+   "sizes": [
+    [
+     279,
+     900
+    ],
+    [
+     710,
+     900
+    ]
+   ],
+   "motion": "squeeze",
+   "featured": false,
+   "stock": 25
+  }
+ ]
+}

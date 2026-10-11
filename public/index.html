@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>NPI Global Trading: Precision Hand Tools, Built Tough</title>
+<meta name="description" content="NPI Global Trading: precision hand tools for workshops, contractors and industrial buyers. Weekly Jumma Deals, bulk pricing and an interactive Tool Lab.">
+<meta name="theme-color" content="#15171A">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/store.css?v=4">
+<link rel="stylesheet" href="/css/demo.css?v=4">
+</head>
+<body>
+<a class="skip-link" href="#app">Skip to content</a>
+<div class="scroll-progress" id="scrollProgress"></div>
+<div class="announce" id="announce" hidden></div>
+
+<header class="site-header" id="siteHeader">
+  <div class="header-inner">
+    <a class="logo" href="/" data-link aria-label="NPI Global Trading home">
+      <div class="logo-badge"><img src="/img/npi-logo.webp" alt="N.P.I Global" width="90" height="36"></div>
+      <div class="logo-text"><div class="big" id="brandName">NPI GLOBAL TRADING</div><div class="small" id="brandTag">Precision &amp; Durability, Stocked</div></div>
+    </a>
+    <nav class="main-nav" id="mainNav" aria-label="Main">
+      <a href="/" data-link data-nav="home">Home</a>
+      <a href="/shop" data-link data-nav="shop">Shop</a>
+      <a href="/deals" data-link data-nav="deals" class="nav-deals" id="navDeals">Deals</a>
+      <a href="/finder" data-link data-nav="finder" class="nav-finder">🧭 Tool Finder</a>
+      <a href="/lab" data-link data-nav="lab">Tool Lab</a>
+      <a href="/contact" data-link data-nav="contact">Contact</a>
+    </nav>
+    <form class="search" id="searchForm" role="search" autocomplete="off">
+      <label for="searchInput" class="sr-only">Search tools</label>
+      <input id="searchInput" type="search" placeholder="Search tools, e.g. wrench, 25ft…" maxlength="80" aria-autocomplete="list" aria-controls="suggestBox">
+      <span class="search-icon" aria-hidden="true">⌕</span>
+      <div class="suggest" id="suggestBox" hidden role="listbox"></div>
+    </form>
+    <div class="header-actions">
+      <a class="icon-btn owner" href="/admin" id="ownerBtn" hidden>⚙ <span class="lbl">Dashboard</span></a>
+      <a class="icon-btn" href="/login" data-link id="accountBtn">👤 <span class="lbl" id="accountLbl">Log in</span></a>
+      <button class="icon-btn cart-btn" id="cartBtn" type="button" aria-label="Open cart">🛒 <span class="lbl">Cart</span> <span class="cart-count" id="cartCount">0</span></button>
+      <button class="icon-btn menu-toggle" id="menuToggle" type="button" aria-label="Menu" aria-expanded="false">☰</button>
+    </div>
+  </div>
+</header>
+
+<main id="app" tabindex="-1"></main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <h4 id="footName">NPI Global Trading</h4>
+        <p id="footAbout">Hand tool distribution for trade, industrial and home buyers.</p>
+        <p class="mono" id="footContact"></p>
+      </div>
+      <div><h4>Shop</h4><a href="/shop" data-link>All tools</a><a href="/deals" data-link>Deals &amp; Jumma offers</a><a href="/finder" data-link>Tool Finder</a><a href="/lab" data-link>Tool Lab</a></div>
+      <div><h4>Account</h4><a href="/account" data-link>My account</a><a href="/account/orders" data-link>Track my orders</a><a href="/cart" data-link>Cart</a></div>
+      <div><h4>Company</h4><a href="/about" data-link>About us</a><a href="/contact" data-link>Wholesale quote</a><a href="/contact" data-link>Contact</a><a href="/admin" id="ownerLogin">🔐 Owner login</a></div>
+    </div>
+    <div class="footer-bottom"><span id="copy">© NPI Global Trading</span><span>🔒 Secure checkout · Cash on delivery available</span></div>
+  </div>
+</footer>
+
+<a class="wa-float" id="waFloat" hidden target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp">💬</a>
+
+<div class="drawer-backdrop" id="drawerBackdrop"></div>
+<aside class="drawer" id="cartDrawer" aria-label="Shopping cart" aria-hidden="true">
+  <div class="drawer-head"><h3>Your Cart</h3><button class="drawer-close" id="drawerClose" type="button" aria-label="Close cart">✕</button></div>
+  <div class="drawer-body" id="drawerBody"></div>
+  <div class="drawer-foot" id="drawerFoot"></div>
+</aside>
+
+<div class="sticky-buy" id="stickyBuy" aria-hidden="true"></div>
+
+<script src="/js/common.js?v=202610071554"></script>
+<script src="/js/icons.js?v=202610071554"></script>
+<script src="/js/sims.js?v=202610071554"></script>
+<script src="/js/demo.js?v=5"></script>
+<script src="/js/store.js?v=5"></script>
+</body>
+</html>
